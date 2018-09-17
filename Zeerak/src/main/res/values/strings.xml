@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zeerak IOT v2.0</string>
+
+    <string-array name="spell_lengths_in_mins">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>DIY</item>
+    </string-array>
+
+</resources>
